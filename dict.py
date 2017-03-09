@@ -9,5 +9,4 @@ class Song(object):
 
 str = ["happy bday", "is it so", "u r lucky"]
 hbd = Song(str)
-
 hbd.sing_to_me()
